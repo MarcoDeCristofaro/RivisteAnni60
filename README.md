@@ -1,7 +1,1 @@
-echo "# RivisteAnni60" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:MarcoDeCristofaro/RivisteAnni60.git
-git push -u origin main
+Corpus composto da testi estratti da due riviste culturali degli anni Sessanta, "Quaderni Piacentini" e "Quindici"
